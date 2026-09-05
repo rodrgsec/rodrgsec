@@ -1,21 +1,27 @@
-# Hi, I'm Chima
+#  Hi, I'm Rodrigues
 
-I'm an **AI Security Analyst & Red Teamer** based in Oklahoma City. I run adversarial testing against frontier large language models, automate SOC threat intelligence, and write about the bridge between traditional security and AI safety.
+I'm a Cybersecurity Developer, Innovative Programmer & Security Researcher from Brazil. I build creative security tools, experiment with emerging technologies, and explore the intersection between programming, cybersecurity, automation, and artificial intelligence.
 
-> *Most security people I know work on either traditional infrastructure or AI systems. I work on both, and that overlap is where the most interesting security work is going to happen for the next decade.*
+> *I don't just write code — I build, break, analyze, and reinvent.*
 
+My work focuses on Cybersecurity Development, Ethical Hacking, Security Automation, AI Security, and Software Engineering. I enjoy turning complex ideas into practical tools and constantly experimenting with new approaches to technology and security.
+
+I'm passionate about building innovative projects, discovering vulnerabilities, automating security workflows, and pushing the limits of what software can do.
 ---
 
 ## Things you can actually use
 
 I'd rather show the work than describe it. These all run entirely in your browser. No backend, no API key, no model call, nothing sent anywhere.
 
-| | |
+| Area | Current evidence |
 |---|---|
-| **[Prompt Injection Simulator](https://chimaukachukwu.com/lab/injection-sim/)** | Attack a support agent, then toggle four defences and watch the same attack succeed or fail. No single control stops all three attack paths, and you can prove it. |
-| **[Prompt Injection CTF](https://chimaukachukwu.com/lab/ctf/)** | Six levels. Each adds a control; each is beaten by finding what that control doesn't cover. |
-| **[Pattern Detector](https://chimaukachukwu.com/lab/pattern-detector/)** | Paste any prompt, see which of ten adversarial categories it matches and which pattern fired. |
-| **[Red Team Atlas](https://chimaukachukwu.com/lab/red-team-atlas/)** | The ten categories as reference: mechanism, detection signal, mitigation, OWASP LLM Top 10 mapping. |
+| Security operations | Wazuh endpoint monitoring, alert analysis, Sysmon telemetry, MITRE ATT&CK context, malware remediation |
+| Infrastructure security | Hardened Ubuntu Server, Windows endpoint baselines, Docker segmentation, private HTTPS administration |
+| Network security | WireGuard, Pi-hole DNS policy, UFW, device discovery, network metadata, access-control design |
+| Observability | Zeek, Prometheus, Grafana, Graylog, centralized Windows and Linux telemetry |
+| Recovery engineering | Automated rsync and Restic backups, encrypted retention, integrity checks, representative restore validation |
+| Automation | Python, PowerShell, Bash, systemd, scheduled jobs, REST APIs, GitHub workflows |
+| Engineering governance | ADRs, risk registers, change control, evidence handling, validation gates, completion records |
 
 They're deterministic on purpose. Because the same input always gives the same result, you can change one control and attribute the difference to it, which a sampled model can't demonstrate. Turn on *only* the input classifier and run the indirect injection: it goes straight through, because the hostile instruction was never in the input to classify.
 
