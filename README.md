@@ -6,7 +6,6 @@ I'm a Cybersecurity Developer, Innovative Programmer & Security Researcher from 
 
 My work focuses on Cybersecurity Development, Ethical Hacking, Security Automation, AI Security, and Software Engineering. I enjoy turning complex ideas into practical tools and constantly experimenting with new approaches to technology and security.
 
-I'm passionate about building innovative projects, discovering vulnerabilities, automating security workflows, and pushing the limits of what software can do.
 ---
 
 ## Things you can actually use
