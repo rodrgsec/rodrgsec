@@ -8,10 +8,6 @@ My work focuses on Cybersecurity Development, Ethical Hacking, Security Automati
 
 ---
 
-## Things you can actually use
-
-I'd rather show the work than describe it. These all run entirely in your browser. No backend, no API key, no model call, nothing sent anywhere.
-
 | Area | Current evidence |
 |---|---|
 | Cybersecurity | Cybersecurity fundamentals, ethical hacking, vulnerability analysis, penetration testing concepts |
