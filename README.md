@@ -25,27 +25,5 @@ I'd rather show the work than describe it. These all run entirely in your browse
 They're deterministic on purpose. Because the same input always gives the same result, you can change one control and attribute the difference to it, which a sampled model can't demonstrate. Turn on *only* the input classifier and run the indirect injection: it goes straight through, because the hostile instruction was never in the input to classify.
 
 ---
-<h2 align="left">Languages</h2>
-
-<style>
-  .languages i {
-    color: white;
-    font-size: 40px;
-    margin: 0 8px;
-  }
-</style>
-
-<h2 align="left">Languages</h2>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg" width="40" height="40" alt="Kotlin" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" width="40" height="40" alt="Bash" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="40" height="40" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40" alt="PHP" />
-</div>
-
+<i class="devicon-php-plain"></i>
+<i class="devicon-python-plain"></i>
