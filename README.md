@@ -37,10 +37,15 @@ They're deterministic on purpose. Because the same input always gives the same r
 
 <h2 align="left">Languages</h2>
 
-<div class="languages" align="center">
-  <i class="devicon-javascript-plain"></i>
-  <i class="devicon-kotlin-plain"></i>
-  <i class="devicon-bash-plain"></i>
-  <i class="devicon-python-plain"></i>
-  <i class="devicon-php-plain"></i>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg" width="40" height="40" alt="Kotlin" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" width="40" height="40" alt="Bash" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="40" height="40" alt="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40" alt="PHP" />
 </div>
+
