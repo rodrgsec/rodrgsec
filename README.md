@@ -25,5 +25,5 @@ I'd rather show the work than describe it. These all run entirely in your browse
 They're deterministic on purpose. Because the same input always gives the same result, you can change one control and attribute the difference to it, which a sampled model can't demonstrate. Turn on *only* the input classifier and run the indirect injection: it goes straight through, because the hostile instruction was never in the input to classify.
 
 ---
-<i class="devicon-php-plain"></i>
-<i class="devicon-python-plain"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40" alt="PHP">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python">
