@@ -14,14 +14,15 @@ I'd rather show the work than describe it. These all run entirely in your browse
 
 | Area | Current evidence |
 |---|---|
-| Security operations | Wazuh endpoint monitoring, alert analysis, Sysmon telemetry, MITRE ATT&CK context, malware remediation |
-| Infrastructure security | Hardened Ubuntu Server, Windows endpoint baselines, Docker segmentation, private HTTPS administration |
-| Network security | WireGuard, Pi-hole DNS policy, UFW, device discovery, network metadata, access-control design |
-| Observability | Zeek, Prometheus, Grafana, Graylog, centralized Windows and Linux telemetry |
-| Recovery engineering | Automated rsync and Restic backups, encrypted retention, integrity checks, representative restore validation |
-| Automation | Python, PowerShell, Bash, systemd, scheduled jobs, REST APIs, GitHub workflows |
-| Engineering governance | ADRs, risk registers, change control, evidence handling, validation gates, completion records |
-
+| Cybersecurity | Cybersecurity fundamentals, ethical hacking, vulnerability analysis, penetration testing concepts |
+| Programming | Python, PHP, HTML, CSS, JavaScript, programming logic, application development |
+| Web security | Web security fundamentals, OWASP concepts, authentication, sessions, common web vulnerabilities |
+| Linux & Systems | Linux, Ubuntu, Windows, command line, system configuration, basic system hardening |
+| Networking | TCP/IP, DNS, HTTP/HTTPS, ports, network protocols, basic network security |
+| Automation | Python scripting, Bash scripting, task automation, custom tools |
+| Development | Git, GitHub, VS Code, version control, repository management, GitHub Pages |
+| Security labs | Cybersecurity labs, security testing environments, Linux security tools, experimental projects |
+| Projects | Cybersecurity projects, web projects, automation tools, programming projects and security experiments |
 They're deterministic on purpose. Because the same input always gives the same result, you can change one control and attribute the difference to it, which a sampled model can't demonstrate. Turn on *only* the input classifier and run the indirect injection: it goes straight through, because the hostile instruction was never in the input to classify.
 
 ---
